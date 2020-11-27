@@ -1,6 +1,6 @@
 {
   "name": "myket_validation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple npm module for validate https://myket.ir/ payments",
   "main": "app.js",
   "scripts": {
@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/Ehcaning/myket_validation#readme",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.0"
   }
 }
